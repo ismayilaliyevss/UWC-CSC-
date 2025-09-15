@@ -11,7 +11,7 @@ print(type(hero))
 
 age = float(age)
 print(age)
-gpa = int(gpa)
+gpa = int(gpa)  
 print(gpa)
 hero = str(hero)
 print(hero)
