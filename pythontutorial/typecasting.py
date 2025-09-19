@@ -21,9 +21,4 @@ print(age)
 name = bool(name)
 print(name)
 
-#implicit
-x = 5
-y = 3.2
-
-x = x / y
-print(x)
+#implicitz
